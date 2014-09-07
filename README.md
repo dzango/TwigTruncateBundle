@@ -1,8 +1,7 @@
 TwigTruncateBundle
 ==================
 
-A Symfony2 bundle to include the TwigTruncateExtension into your app. The TwigTruncate Extension allows
-you to truncate text while preserving HTML tags.
+A Symfony2 bundle to include the [https://github.com/dzango/TwigTruncateExtension](TwigTruncateExtension) into your app. The TwigTruncate Extension allows you to truncate text while preserving HTML tags.
 
 Installation
 ------------
