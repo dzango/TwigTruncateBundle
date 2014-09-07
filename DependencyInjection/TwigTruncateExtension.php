@@ -1,6 +1,6 @@
 <?php
 
-namespace CP\Bundle\TermsBundle\DependencyInjection;
+namespace Dzango\Bundle\TwigTruncateBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
