@@ -14,6 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
+        "symfony/framework-bundle": "~2.0",
         "dzango/twig-truncate-extension": "~0.1@dev"
     },
     "autoload": {
