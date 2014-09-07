@@ -15,14 +15,17 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": "~2.0",
-        "dzango/twig-truncate-extension": "~0.1@dev"
+        "dzango/twig-truncate-extension": "~1.0"
+    },
+    "require-dev": {
+        "dzango/twig-truncate-extension": "*@dev"
     },
     "autoload": {
         "psr-4": { "Dzango\\Bundle\\TwigTruncateBundle\\": "src" }
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.x-dev"
+            "dev-master": "1.0.x-dev"
         }
     }
 }
