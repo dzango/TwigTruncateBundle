@@ -1,6 +1,6 @@
 services:
-	dzango.twig.truncate_extension:
-		class: Dzango\Twig\Extension\Truncate
-		arguments: ~
-		tags:
-			- { name: twig.extension }
+    dzango.twig.truncate_extension:
+        class: Dzango\Twig\Extension\Truncate
+        arguments: ~
+        tags:
+            - { name: twig.extension }
