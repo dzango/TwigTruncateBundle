@@ -1,7 +1,7 @@
 {
     "name": "dzango/twig-truncate-bundle",
     "description": "A Symfony 2 bundle to include the TwigTruncateExtension into your app.",
-    "keywords": ["twig", "truncate"],
+    "keywords": ["symfony", "symfony2", "bundle", "twig", "truncate"],
     "homepage": "https://github.com/dzango/TwigTruncateBundle",
     "type": "symfony-bundle",
     "license": "MIT",
