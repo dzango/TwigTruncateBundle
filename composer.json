@@ -17,9 +17,6 @@
         "symfony/framework-bundle": "~2.0",
         "dzango/twig-truncate-extension": "~1.0"
     },
-    "require-dev": {
-        "dzango/twig-truncate-extension": "*@dev"
-    },
     "autoload": {
         "psr-4": { "Dzango\\Bundle\\TwigTruncateBundle\\": "src" }
     },
