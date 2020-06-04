@@ -31,7 +31,9 @@ class AppKernel extends Kernel
 ```
 
 Note:
-In symfony 4 the bundle will automatically enabled in your app. In case the bundle does not enabled, add it to bundle list.  
+
+For symfony 4 and above the bundle will automatically enabled in your app. In case the bundle does not enabled, add it to bundle list.  
+
 ```php
 #config/bundles.php
 return [
