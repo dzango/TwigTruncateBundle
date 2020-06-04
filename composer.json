@@ -14,8 +14,8 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "~2.0||~3.0",
-        "dzango/twig-truncate-extension": "~1.0"
+        "symfony/framework-bundle": "^2.0 || ^3.0 || ^4.0",
+        "dzango/twig-truncate-extension": "^1.0"
     },
     "autoload": {
         "psr-4": { "Dzango\\Bundle\\TwigTruncateBundle\\": "src" }
