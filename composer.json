@@ -1,7 +1,7 @@
 {
     "name": "dzango/twig-truncate-bundle",
-    "description": "A Symfony 2 bundle to include the TwigTruncateExtension into your app.",
-    "keywords": ["symfony", "symfony2", "bundle", "twig", "truncate"],
+    "description": "A Symfony bundle to include the TwigTruncateExtension into your app.",
+    "keywords": ["symfony", "symfony2", "symfony3", "symfony4", "bundle", "twig", "truncate"],
     "homepage": "https://github.com/dzango/TwigTruncateBundle",
     "type": "symfony-bundle",
     "license": "MIT",
@@ -14,8 +14,8 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "~2.0||~3.0",
-        "dzango/twig-truncate-extension": "~1.0"
+        "symfony/framework-bundle": "^2.0 || ^3.0 || ^4.0",
+        "dzango/twig-truncate-extension": "^1.0"
     },
     "autoload": {
         "psr-4": { "Dzango\\Bundle\\TwigTruncateBundle\\": "src" }
